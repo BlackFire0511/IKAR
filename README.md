@@ -1,2 +1,2 @@
 # IKAR
-[ССылка](google.com)
+[ССылка](https://google.com)
